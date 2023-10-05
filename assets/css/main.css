@@ -840,6 +840,11 @@ body {
   justify-self: center;
 }
 
+.contact__form .btn a{
+  color: var(--color-white);
+  font-weight: var(--fw-medium);
+}
+
 .contact__content {
   background: var(--color-primary) var(--color-gradient);
   padding: 5rem 3rem;
