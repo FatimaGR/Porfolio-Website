@@ -5,13 +5,13 @@
   --color-primary-dark: #7016ff;
   --color-primary-lighten: #c8b6fa;
   --color-gradient: linear-gradient(121.77deg, #7141fb 13.51%, #4b14e8 174.68%);
-  --color-secondary: #212736;
-  --color-secondary-dark: #1d2230;
+  --color-secondary: #2E2E2E;
+  --color-secondary-dark: #272727;
   --color-gray: #747474;
   --color-gray-light: #b8bbc7;
   --color-gray-lighten: #f6f8fe;
   --color-white: #fff;
-  --color-title: #3f396d;
+  --color-title: #3d3c3d;
   --color-border: #2b3142;
 
   /* Font & Typography
